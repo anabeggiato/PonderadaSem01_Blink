@@ -19,3 +19,5 @@
   <source src="assets/video_evidencia.mp4" type="video/mp4">
 </video>
 </div>
+
+Caso o vídeo não carregue, ele pode ser baixado do repositório ou acessado [aqui](https://www.youtube.com/embed/3x9xYfgUnRY)
